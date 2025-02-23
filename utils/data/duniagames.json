@@ -1,8 +1,375 @@
 {
   "data": [
     {
+      "id": "147",
+      "name": "Bilibili (DG)",
+      "slug": "Bilibili-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "123",
+      "name": "DG Mini Games (DG)",
+      "slug": "dg-mini-games-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1280,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2463,
+      "paymentChannel": 6272
+    },
+    {
+      "id": "84",
+      "name": "DG Rings (DG)",
+      "slug": "dg-rings-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 790,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 1930,
+      "paymentChannel": 7173
+    },
+    {
+      "id": "vGMxNNAvk9C9Vj54vpW4sky",
+      "name": "Data Package Free Fire (DG)",
+      "slug": "data-package-free-fire-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "E3ZrDDWwzMU0gWDn5wAnF5J",
+      "name": "Data Package Mobile Legends (DG)",
+      "slug": "data-package-mobile-legends-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "mGw677J5gYCYJEVnrMgNcA3",
+      "name": "Dynastones (DG)",
+      "slug": "dynastones-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1304,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2487,
+      "paymentChannel": 6356
+    },
+    {
+      "id": "J0Ky9945rVIw4JjmlypXCm4",
+      "name": "Eggy Party (DG)",
+      "slug": "eggy_party-dg",
+      "provider": "duniagames",
+      "isZone": true,
+      "dropdown": [
+        {
+          "id": "10001",
+          "name": "Global"
+        }
+      ],
+      "itemId": 1667,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2849,
+      "paymentChannel": 7658
+    },
+    {
+      "id": "109",
+      "name": "Football Master 2 (DG)",
+      "slug": "football-master-2-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1030,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2214,
+      "paymentChannel": 6560
+    },
+    {
+      "id": "108",
+      "name": "Fortnite (DG)",
+      "slug": "fortnite-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "catalogId": null
+    },
+    {
+      "id": "160",
+      "name": "Fortnite (DG)",
+      "slug": "fortnite-replicate-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "82",
+      "name": "Game Speed Up Bundling (DG)",
+      "slug": "game-speed-up-bundling-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "148",
+      "name": "GameMax COD Warzone  (DG)",
+      "slug": "gamemax-cod-warzone-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "93",
+      "name": "GameQoo Bundling (DG)",
+      "slug": "gameqoo_bundling-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "wEg7yydB6bs935l4AYlW",
+      "name": "GamesMax (DG)",
+      "slug": "gamesmax-booster-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "122",
+      "name": "Google Play Pass (DG)",
+      "slug": "paket-google-play-pass-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "157",
+      "name": "Google Playpass Ketengan (DG)",
+      "slug": "google-playpass-ketengan-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1726,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2904,
+      "paymentChannel": 7953
+    },
+    {
+      "id": "34",
+      "name": "Langit Musik (DG)",
+      "slug": "langit-musik-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 258,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 314,
+      "paymentChannel": 1103
+    },
+    {
+      "id": "21",
+      "name": "LifeAfter (DG)",
+      "slug": "life-after-dg",
+      "provider": "duniagames",
+      "isZone": true,
+      "dropdown": [
+        {
+          "id": "520007",
+          "name": "ChaosCity"
+        },
+        {
+          "id": "500007",
+          "name": "ChaosOutpost"
+        },
+        {
+          "id": "520002",
+          "name": "CharlesTown"
+        },
+        {
+          "id": "500009",
+          "name": "CrystalthornSea"
+        },
+        {
+          "id": "510001",
+          "name": "FallForest"
+        },
+        {
+          "id": "520009",
+          "name": "HopeWall"
+        },
+        {
+          "id": "500008",
+          "name": "IronStride"
+        },
+        {
+          "id": "520010",
+          "name": "LabyrinthSea"
+        },
+        {
+          "id": "520005",
+          "name": "LevinCity"
+        },
+        {
+          "id": "520006",
+          "name": "MileStone"
+        },
+        {
+          "id": "500001",
+          "name": "MiskaTown"
+        },
+        {
+          "id": "510002",
+          "name": "MountSnow"
+        },
+        {
+          "id": "500003",
+          "name": "MouthSwamp"
+        },
+        {
+          "id": "520001",
+          "name": "NancyCity"
+        },
+        {
+          "id": "500006",
+          "name": "NewLand"
+        },
+        {
+          "id": " 500005",
+          "name": "Obelisk"
+        },
+        {
+          "id": "500004",
+          "name": "RedwoodTown"
+        },
+        {
+          "id": "500002",
+          "name": "SandCastle"
+        },
+        {
+          "id": "520004",
+          "name": "Santopany"
+        },
+        {
+          "id": "520003",
+          "name": "SnowHighlands"
+        },
+        {
+          "id": " 520008",
+          "name": "TwinIslands"
+        }
+      ],
+      "itemId": 1672,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2854,
+      "paymentChannel": 8009
+    },
+    {
+      "id": "z9kG55J6RxtyVmxXvGLYIKr",
+      "name": "LifeAfter (DG)",
+      "slug": "life-after-replicate-dg",
+      "provider": "duniagames",
+      "isZone": true,
+      "dropdown": [],
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "35",
+      "name": "Lokapala (DG)",
+      "slug": "lokapala-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 259,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 315,
+      "paymentChannel": 1106
+    },
+    {
+      "id": "104",
+      "name": "Magnet Majamojo Bundling (DG)",
+      "slug": "magnet_majamojo_bundling-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "119",
+      "name": "Maxstream (DG)",
+      "slug": "maxstream-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "64",
+      "name": "Minecraft (DG)",
+      "slug": "minecraft-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 454,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 478,
+      "paymentChannel": 7987
+    },
+    {
+      "id": "33",
+      "name": "MusicMax (DG)",
+      "slug": "musicmax-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "130",
+      "name": "Pokemon Unite (DG)",
+      "slug": "gamesmax-booster-pokemon-unite-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "product_ref": "REG",
+      "catalogId": null
+    },
+    {
+      "id": "2dz3LLNDBATZdkq5NAj5Fzq",
+      "name": "Roblox (DG)",
+      "slug": "roblox-voucher-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "catalogId": null
+    },
+    {
+      "id": "27",
+      "name": "Tinder (DG)",
+      "slug": "tinder-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 196,
+      "product_ref_denom": "CMS",
+      "product_ref": "REG",
+      "catalogId": 253,
+      "paymentChannel": 946
+    },
+    {
       "id": "78",
-      "name": "Angel Squad (DG)",
+      "name": "Top Up Angel Squad (DG)",
       "slug": "angel-squad-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -13,8 +380,8 @@
       "paymentChannel": 4512
     },
     {
-      "id": "x987R9vxMLIymmP7gOe",
-      "name": "AoV (DG)",
+      "id": "4",
+      "name": "Top Up AoV (DG)",
       "slug": "aov-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -22,11 +389,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 73,
-      "paymentChannel": 6177
+      "paymentChannel": 7974
     },
     {
       "id": "62",
-      "name": "Atlantica Online (DG)",
+      "name": "Top Up Atlantica Online (DG)",
       "slug": "atlantica-online-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -38,7 +405,7 @@
     },
     {
       "id": "7",
-      "name": "Battlenet (DG)",
+      "name": "Top Up Battlenet (DG)",
       "slug": "battlenet-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -49,17 +416,8 @@
       "paymentChannel": 776
     },
     {
-      "id": "147",
-      "name": "Bilibili (DG)",
-      "slug": "Bilibili-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
       "id": "94",
-      "name": "Bleach Mobile 3D (DG)",
+      "name": "Top Up Bleach Mobile 3D (DG)",
       "slug": "bleach-mobile-3d-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1149,15 +1507,15 @@
           "name": "BLEACH TH S39~S45"
         }
       ],
-      "itemId": 900,
+      "itemId": 894,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2054,
-      "paymentChannel": 5234
+      "catalogId": 2048,
+      "paymentChannel": 5228
     },
     {
       "id": "115",
-      "name": "Blizzard Gift Card (DG)",
+      "name": "Top Up Blizzard Gift Card (DG)",
       "slug": "blizzard-gift-card-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1168,16 +1526,26 @@
       "paymentChannel": 5662
     },
     {
-      "id": "wEg7yEm6rPSXL7kVM522FNP",
-      "name": "Blood Strike (DG)",
-      "slug": "blood_strike-dg",
+      "id": "149",
+      "name": "Top Up Blood Strike (DG)",
+      "slug": "blood-strike-dg",
       "provider": "duniagames",
-      "isZone": false,
-      "catalogId": null
+      "isZone": true,
+      "dropdown": [
+        {
+          "id": "-1",
+          "name": "Blood Strike"
+        }
+      ],
+      "itemId": 1655,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2837,
+      "paymentChannel": 7583
     },
     {
-      "id": "BdvXkdJejRcdxOl5G9N5",
-      "name": "Boxing Star (DG)",
+      "id": "88",
+      "name": "Top Up Boxing Star (DG)",
       "slug": "boxing-star-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1189,7 +1557,7 @@
     },
     {
       "id": "18",
-      "name": "Call of Duty Mobile (DG)",
+      "name": "Top Up Call of Duty Mobile (DG)",
       "slug": "call-of-duty-mobile-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1197,23 +1565,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 144,
-      "paymentChannel": 6080
-    },
-    {
-      "id": "123",
-      "name": "DG Mini Games (DG)",
-      "slug": "dg-mini-games-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 1280,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 2463,
-      "paymentChannel": 6272
+      "paymentChannel": 6081
     },
     {
       "id": "86",
-      "name": "Dragon Raja (DG)",
+      "name": "Top Up Dragon Raja (DG)",
       "slug": "dragon-raja-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1224,8 +1580,8 @@
       "paymentChannel": 5214
     },
     {
-      "id": "E3ZrD3Jze4tRMPKy9Wz7",
-      "name": "DreadOut (DG)",
+      "id": "12",
+      "name": "Top Up DreadOut (DG)",
       "slug": "dreadout-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1233,67 +1589,48 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 118,
-      "paymentChannel": 1540
-    },
-    {
-      "id": "126",
-      "name": "Dynastones (DG)",
-      "slug": "dynastones-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 1304,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 2487,
-      "paymentChannel": 6356
+      "paymentChannel": 802
     },
     {
       "id": "139",
-      "name": "EA Sports FC Mobile (DG)",
+      "name": "Top Up EA Sports FC Mobile (DG)",
       "slug": "ea-sports-fc-mobile-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1507,
+      "itemId": 1506,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2687,
-      "paymentChannel": 6918
+      "catalogId": 2686,
+      "paymentChannel": 6916
     },
     {
-      "id": "O0M4p0JRyDcxy086rX72tW6",
-      "name": "Eggy Party (DG)",
-      "slug": "eggy_party-dg",
+      "id": "156",
+      "name": "Top Up Echocalypse (DG)",
+      "slug": "echocalypse-dg",
       "provider": "duniagames",
-      "isZone": false,
-      "catalogId": null
-    },
-    {
-      "id": "109",
-      "name": "Football Master 2 (DG)",
-      "slug": "football-master-2-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 1030,
+      "isZone": true,
+      "dropdown": [],
+      "itemId": 1715,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2214,
-      "paymentChannel": 6560
+      "catalogId": 2893,
+      "paymentChannel": 7901
     },
     {
-      "id": "108",
-      "name": "Fortnite (DG)",
-      "slug": "fortnite-dg",
+      "id": "3",
+      "name": "Top Up Free Fire (FF) (DG)",
+      "slug": "freefire-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1029,
+      "itemId": 353,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2213,
-      "paymentChannel": 7543
+      "catalogId": 376,
+      "paymentChannel": 7964
     },
     {
       "id": "81",
-      "name": "Game Speed Up (DG)",
+      "name": "Top Up Game Speed Up (DG)",
       "slug": "game-speed-up-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1304,35 +1641,8 @@
       "paymentChannel": 4870
     },
     {
-      "id": "82",
-      "name": "Game Speed Up Bundling (DG)",
-      "slug": "game-speed-up-bundling-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
-      "id": "148",
-      "name": "GameMax COD Warzone  (DG)",
-      "slug": "gamemax-cod-warzone-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
-      "id": "93",
-      "name": "GameQoo Bundling (DG)",
-      "slug": "gameqoo_bundling-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
       "id": "121",
-      "name": "GamesMAX Booster DG Rings (DG)",
+      "name": "Top Up GamesMAX Booster DG Rings (DG)",
       "slug": "gamesmax-booster-dg-rings-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1340,20 +1650,35 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 56,
-      "paymentChannel": 5766
+      "paymentChannel": 5767
     },
     {
-      "id": "79",
-      "name": "GamesMax (DG)",
-      "slug": "gamesmax-booster-dg",
+      "id": "2",
+      "name": "Top Up Garena Shells (DG)",
+      "slug": "garena-dg",
       "provider": "duniagames",
       "isZone": false,
+      "itemId": 6,
+      "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": null
+      "catalogId": 61,
+      "paymentChannel": 5359
+    },
+    {
+      "id": "158",
+      "name": "Top Up Garuda Eleven (DG)",
+      "slug": "garuda-eleven-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1732,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2910,
+      "paymentChannel": 7959
     },
     {
       "id": "107",
-      "name": "Genshin Impact (DG)",
+      "name": "Top Up Genshin Impact (DG)",
       "slug": "genshin-crystal-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1375,15 +1700,15 @@
           "name": "TW_HK_MO"
         }
       ],
-      "itemId": 1004,
+      "itemId": 1002,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2165,
-      "paymentChannel": 6672
+      "catalogId": 2163,
+      "paymentChannel": 6661
     },
     {
-      "id": "Pjg9XjErR0FpR495OjD6ub9",
-      "name": "Gods of Myth (DG)",
+      "id": "9derKKPj3LT4pzA5l8XPiD9",
+      "name": "Top Up Gods of Myth (DG)",
       "slug": "gods-of-myth-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1394,8 +1719,8 @@
       "paymentChannel": 6774
     },
     {
-      "id": "L04Kj0JrZkc9ZN7qe6Zp",
-      "name": "Google Play (DG)",
+      "id": "31",
+      "name": "Top Up Google Play (DG)",
       "slug": "google-play-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1406,29 +1731,32 @@
       "paymentChannel": 6374
     },
     {
-      "id": "122",
-      "name": "Google Play Pass (DG)",
-      "slug": "paket-google-play-pass-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
       "id": "143",
-      "name": "Growtopia (DG)",
+      "name": "Top Up Growtopia (DG)",
       "slug": "growtopia-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1515,
+      "itemId": 1512,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2697,
-      "paymentChannel": 7459
+      "catalogId": 2694,
+      "paymentChannel": 7019
+    },
+    {
+      "id": "153",
+      "name": "Top Up HOK E-wallet (DG)",
+      "slug": "honor-of-kings-e-wallet-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 1676,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2858,
+      "paymentChannel": 7684
     },
     {
       "id": "145",
-      "name": "Harry Potter Magic Awakened (DG)",
+      "name": "Top Up Harry Potter Magic Awakened (DG)",
       "slug": "harry-potter-magic-awakened-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1474,15 +1802,15 @@
           "name": "servername_22001"
         }
       ],
-      "itemId": 1535,
+      "itemId": 1532,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2717,
-      "paymentChannel": 7490
+      "catalogId": 2714,
+      "paymentChannel": 7039
     },
     {
       "id": "118",
-      "name": "Heroes Evolved (DG)",
+      "name": "Top Up Heroes Evolved (DG)",
       "slug": "heroes-evolved-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1532,15 +1860,15 @@
           "name": "ASIA - [TH]"
         }
       ],
-      "itemId": 1253,
+      "itemId": 1254,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2430,
-      "paymentChannel": 5909
+      "catalogId": 2431,
+      "paymentChannel": 5910
     },
     {
       "id": "111",
-      "name": "Heroes Evolved - Point Card (DG)",
+      "name": "Top Up Heroes Evolved Point Card (DG)",
       "slug": "heroes-evolved-point-card-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1551,16 +1879,38 @@
       "paymentChannel": 5570
     },
     {
-      "id": "4d92ZdmgMzcK5AOZzdymUEj",
-      "name": "Honkai Star Rail (DG)",
-      "slug": "honkai_star_rail-dg",
+      "id": "150",
+      "name": "Top Up Honkai Star Rail (DG)",
+      "slug": "honkai-star-rail-dg",
       "provider": "duniagames",
-      "isZone": false,
-      "catalogId": null
+      "isZone": true,
+      "dropdown": [
+        {
+          "id": "prod_official_asia",
+          "name": "Asia"
+        },
+        {
+          "id": "prod_official_usa",
+          "name": "America"
+        },
+        {
+          "id": "prod_official_eur",
+          "name": "Europe"
+        },
+        {
+          "id": "prod_official_cht",
+          "name": "TW,HK,MO"
+        }
+      ],
+      "itemId": 1649,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2831,
+      "paymentChannel": 7607
     },
     {
       "id": "146",
-      "name": "Honor of Kings (DG)",
+      "name": "Top Up Honor of Kings (DG)",
       "slug": "honor-of-kings-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1568,20 +1918,8 @@
       "catalogId": null
     },
     {
-      "id": "34",
-      "name": "Langit Musik (DG)",
-      "slug": "langit-musik-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 258,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 314,
-      "paymentChannel": 1103
-    },
-    {
       "id": "128",
-      "name": "Laplace Mobile (DG)",
+      "name": "Top Up Laplace Mobile (DG)",
       "slug": "laplace-mobile-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1593,7 +1931,7 @@
     },
     {
       "id": "113",
-      "name": "League of Legends : Wild Rift (DG)",
+      "name": "Top Up League of Legends : Wild Rift (DG)",
       "slug": "league-of-legends-wild-rift-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1604,26 +1942,8 @@
       "paymentChannel": 5594
     },
     {
-      "id": "21",
-      "name": "LifeAfter (DG)",
-      "slug": "life-after-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "catalogId": null
-    },
-    {
-      "id": "pGRDXGnWNziV503Jx47GTBg",
-      "name": "LifeAfter (DG)",
-      "slug": "life-after-replicate-dg",
-      "provider": "duniagames",
-      "isZone": true,
-      "dropdown": [],
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
       "id": "114",
-      "name": "Lita (DG)",
+      "name": "Top Up Lita (DG)",
       "slug": "lita-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1634,21 +1954,9 @@
       "paymentChannel": 5660
     },
     {
-      "id": "N0rl20WkNBczApPeDvAy",
-      "name": "Lokapala (DG)",
-      "slug": "lokapala-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 259,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 315,
-      "paymentChannel": 1106
-    },
-    {
-      "id": "vGMxNGWkOXixPK3yJjRDCky",
-      "name": "Luna Fantasia (DG)",
-      "slug": "luna_fantasia-dg",
+      "id": "105",
+      "name": "Top Up Luna Fantasia (DG)",
+      "slug": "luna-fantasia-dg",
       "provider": "duniagames",
       "isZone": false,
       "itemId": 986,
@@ -1658,8 +1966,8 @@
       "paymentChannel": 7546
     },
     {
-      "id": "GbNw6bJjprtXOrJK7wYPCY8",
-      "name": "MU Origin 3 (DG)",
+      "id": "110",
+      "name": "Top Up MU Origin 3 (DG)",
       "slug": "mu-origin-3-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1670,38 +1978,8 @@
       "paymentChannel": 6477
     },
     {
-      "id": "104",
-      "name": "Magnet Majamojo Bundling (DG)",
-      "slug": "magnet_majamojo_bundling-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
-      "id": "119",
-      "name": "Maxstream (DG)",
-      "slug": "maxstream-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
-    },
-    {
-      "id": "141",
-      "name": "Metal Slug (DG)",
-      "slug": "metal-slug-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 1491,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 2671,
-      "paymentChannel": 6989
-    },
-    {
       "id": "9",
-      "name": "Mi-cash (DG)",
+      "name": "Top Up Megaxus (DG)",
       "slug": "mi-cash-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1709,23 +1987,23 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 98,
-      "paymentChannel": 6027
+      "paymentChannel": 6028
     },
     {
-      "id": "64",
-      "name": "Minecraft (DG)",
-      "slug": "minecraft-dg",
+      "id": "141",
+      "name": "Top Up Metal Slug (DG)",
+      "slug": "metal-slug-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 454,
+      "itemId": 1488,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 478,
-      "paymentChannel": 5299
+      "catalogId": 2668,
+      "paymentChannel": 6862
     },
     {
-      "id": "1",
-      "name": "Mobile Legends (DG)",
+      "id": "mGw677J5g4hjVBK3PXV",
+      "name": "Top Up Mobile Legends (DG)",
       "slug": "mobile-legends-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1733,20 +2011,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 121,
-      "paymentChannel": 6713
-    },
-    {
-      "id": "ZG3V5G7YkLiG9pKLnB9W",
-      "name": "MusicMax (DG)",
-      "slug": "musicmax-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
+      "paymentChannel": 6361
     },
     {
       "id": "98",
-      "name": "NetEase Pay (DG)",
+      "name": "Top Up NetEase Pay (DG)",
       "slug": "netease-pay-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1758,7 +2027,7 @@
     },
     {
       "id": "116",
-      "name": "Nintendo Membership (DG)",
+      "name": "Top Up Nintendo Membership (DG)",
       "slug": "nintendo-membership-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1766,11 +2035,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 2387,
-      "paymentChannel": 5746
+      "paymentChannel": 7992
     },
     {
       "id": "97",
-      "name": "One Punch Man : The Strongest (DG)",
+      "name": "Top Up One Punch Man : The Strongest (DG)",
       "slug": "one-punch-man-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1781,8 +2050,8 @@
       "paymentChannel": 5140
     },
     {
-      "id": "16",
-      "name": "PUBG Mobile (DG)",
+      "id": "lGZxjjJKl5hgy8AeEKD2",
+      "name": "Top Up PUBG Mobile (DG)",
       "slug": "pubg-mobile-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1790,8 +2059,8 @@
       "catalogId": null
     },
     {
-      "id": "2dz3LdxBv0cyRwx04kbPFzN",
-      "name": "Paw Rumble (DG)",
+      "id": "124",
+      "name": "Top Up Paw Rumble (DG)",
       "slug": "paw-rumble-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1803,7 +2072,7 @@
     },
     {
       "id": "70",
-      "name": "Perfect World (DG)",
+      "name": "Top Up Perfect World (DG)",
       "slug": "perfect-world-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1837,7 +2106,7 @@
     },
     {
       "id": "17",
-      "name": "Point Blank (DG)",
+      "name": "Top Up Point Blank (DG)",
       "slug": "point-blank-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1845,20 +2114,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 138,
-      "paymentChannel": 6153
-    },
-    {
-      "id": "130",
-      "name": "Pokemon Unite (DG)",
-      "slug": "gamesmax-booster-pokemon-unite-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "product_ref": "REG",
-      "catalogId": null
+      "paymentChannel": 6154
     },
     {
       "id": "73",
-      "name": "RF Classic (DG)",
+      "name": "Top Up RF Classic (DG)",
       "slug": "rf-classic-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1876,7 +2136,7 @@
     },
     {
       "id": "74",
-      "name": "RF Remastered (DG)",
+      "name": "Top Up RF Remastered (DG)",
       "slug": "rf-remastered-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -1893,8 +2153,21 @@
       "paymentChannel": 1867
     },
     {
+      "id": "WJ0Lyyx68AI0bXNxn6KxFZL",
+      "name": "Top Up Ragnarok Origin (DG)",
+      "slug": "ragnarok-origin-dg",
+      "provider": "duniagames",
+      "isZone": true,
+      "dropdown": [],
+      "itemId": 1777,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 2955,
+      "paymentChannel": 8066
+    },
+    {
       "id": "77",
-      "name": "Ragnarok Retro (DG)",
+      "name": "Top Up Ragnarok Retro (DG)",
       "slug": "ragnarok-retro-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1905,20 +2178,20 @@
       "paymentChannel": 4518
     },
     {
-      "id": "vGMxNGWkOXixPK3yJjRG",
-      "name": "Razer Gold (DG)",
+      "id": "13",
+      "name": "Top Up Razer Gold (DG)",
       "slug": "razer-gold-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 68,
+      "itemId": 69,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 123,
-      "paymentChannel": 6811
+      "catalogId": 124,
+      "paymentChannel": 6808
     },
     {
       "id": "112",
-      "name": "Revelation Mobile (DG)",
+      "name": "Top Up Revelation Mobile (DG)",
       "slug": "revelation-mobile-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1926,11 +2199,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 2252,
-      "paymentChannel": 5589
+      "paymentChannel": 7766
     },
     {
       "id": "129",
-      "name": "Sausage Man (DG)",
+      "name": "Top Up Sausage Man (DG)",
       "slug": "sausage-man-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1938,11 +2211,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 2501,
-      "paymentChannel": 6421
+      "paymentChannel": 6422
     },
     {
       "id": "5",
-      "name": "Speed Drifters (DG)",
+      "name": "Top Up Speed Drifters (DG)",
       "slug": "speed-drifters-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -1950,59 +2223,59 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 80,
-      "paymentChannel": 6286
+      "paymentChannel": 6287
     },
     {
       "id": "140",
-      "name": "State of Survival (DG)",
+      "name": "Top Up State of Survival (DG)",
       "slug": "state-of-survival-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1480,
+      "itemId": 1483,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2660,
-      "paymentChannel": 6965
+      "catalogId": 2663,
+      "paymentChannel": 6847
+    },
+    {
+      "id": "49",
+      "name": "Top Up Steam (DG)",
+      "slug": "voucher-steam-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 387,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 410,
+      "paymentChannel": 1324
     },
     {
       "id": "144",
-      "name": "Super Sus (DG)",
+      "name": "Top Up Super Sus (DG)",
       "slug": "super-sus-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1518,
+      "itemId": 1525,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2700,
-      "paymentChannel": 7492
+      "catalogId": 2707,
+      "paymentChannel": 7032
     },
     {
       "id": "117",
-      "name": "The Legend of Neverland (DG)",
+      "name": "Top Up The Legend of Neverland (DG)",
       "slug": "the-legend-of-neverland-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 1249,
+      "itemId": 1241,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 2426,
-      "paymentChannel": 5905
-    },
-    {
-      "id": "27",
-      "name": "Tinder (DG)",
-      "slug": "tinder-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 196,
-      "product_ref_denom": "CMS",
-      "product_ref": "REG",
-      "catalogId": 253,
-      "paymentChannel": 946
+      "catalogId": 2418,
+      "paymentChannel": 5897
     },
     {
       "id": "95",
-      "name": "Tom and Jerry : Chase (DG)",
+      "name": "Top Up Tom and Jerry : Chase (DG)",
       "slug": "tom-and-jerry-chase-dg",
       "provider": "duniagames",
       "isZone": true,
@@ -2019,44 +2292,8 @@
       "paymentChannel": 5118
     },
     {
-      "id": "84",
-      "name": "Top Up DG Rings (DG)",
-      "slug": "dg-rings-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 790,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 1930,
-      "paymentChannel": 7172
-    },
-    {
-      "id": "3",
-      "name": "Top Up FF ( Free Fire) (DG)",
-      "slug": "freefire-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 353,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 376,
-      "paymentChannel": 5377
-    },
-    {
-      "id": "pGRDXGnWNzi7MpMDOm0",
-      "name": "Top Up Garena Shell (DG)",
-      "slug": "garena-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 6,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 61,
-      "paymentChannel": 5357
-    },
-    {
       "id": "131",
-      "name": "Uncharted Waters Origin (DG)",
+      "name": "Top Up Uncharted Waters Origin (DG)",
       "slug": "uncharted-waters-origin-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -2068,7 +2305,7 @@
     },
     {
       "id": "120",
-      "name": "Undawn (DG)",
+      "name": "Top Up Undawn (DG)",
       "slug": "undawn-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -2076,11 +2313,11 @@
       "product_ref_denom": "REG",
       "product_ref": "REG",
       "catalogId": 2432,
-      "paymentChannel": 5931
+      "paymentChannel": 5932
     },
     {
       "id": "14",
-      "name": "Unipin (DG)",
+      "name": "Top Up Unipin Credits (DG)",
       "slug": "unipin-dg",
       "provider": "duniagames",
       "isZone": false,
@@ -2089,6 +2326,30 @@
       "product_ref": "REG",
       "catalogId": 127,
       "paymentChannel": 426
+    },
+    {
+      "id": "66",
+      "name": "Top Up Voucher PUBG Mobile (DG)",
+      "slug": "pubg-mobile-voucher-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 474,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 497,
+      "paymentChannel": 7980
+    },
+    {
+      "id": "65",
+      "name": "Top Up XBOX Live Gift Card (DG)",
+      "slug": "xbox-live-dg",
+      "provider": "duniagames",
+      "isZone": false,
+      "itemId": 457,
+      "product_ref_denom": "REG",
+      "product_ref": "REG",
+      "catalogId": 481,
+      "paymentChannel": 5223
     },
     {
       "id": "132",
@@ -2118,28 +2379,16 @@
       "catalogId": null
     },
     {
-      "id": "4d92ZdmgMzcK5AOZzdRb",
-      "name": "Voucher PUBG Mobile (DG)",
-      "slug": "pubg-mobile-voucher-dg",
+      "id": "154",
+      "name": "Voucher Point Blank (DG)",
+      "slug": "voucher-point-blank-dg",
       "provider": "duniagames",
       "isZone": false,
-      "itemId": 474,
+      "itemId": 1686,
       "product_ref_denom": "REG",
       "product_ref": "REG",
-      "catalogId": 497,
-      "paymentChannel": 6378
-    },
-    {
-      "id": "y9YLK9JGgqId0y2z3GwX",
-      "name": "Voucher Steam (DG)",
-      "slug": "voucher-steam-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 387,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 410,
-      "paymentChannel": 1324
+      "catalogId": 2868,
+      "paymentChannel": 7725
     },
     {
       "id": "133",
@@ -2149,18 +2398,6 @@
       "isZone": false,
       "product_ref": "REG",
       "catalogId": null
-    },
-    {
-      "id": "65",
-      "name": "XBOX Live Gift Card (DG)",
-      "slug": "xbox-live-dg",
-      "provider": "duniagames",
-      "isZone": false,
-      "itemId": 457,
-      "product_ref_denom": "REG",
-      "product_ref": "REG",
-      "catalogId": 481,
-      "paymentChannel": 5223
     }
   ]
 }
